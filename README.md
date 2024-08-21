@@ -28,7 +28,6 @@ This project involves an analysis of binary classifiers using the IMDB dataset, 
 5. **Precision-Recall Curve Analysis:**
    - The precision-recall curve is plotted to visualize the trade-off between precision (the accuracy of positive predictions) and recall (the ability to find all positive cases) at various thresholds.
    
-   ![Precision-Recall Curve](path_to_precision_recall_curve_plot.png)
 
 6. **Best Performing Model:**
    - The notebook identifies the best-performing model based on the evaluation metrics, and further discusses the trade-offs between precision and recall, particularly useful for imbalanced datasets.
@@ -45,9 +44,6 @@ This project involves an analysis of binary classifiers using the IMDB dataset, 
 
 ### Visualizations:
 This project includes a key visualization to help interpret the model's performance:
-
-1. **Precision-Recall Curve:**
-   - ![Precision-Recall Curve](path_to_precision_recall_curve_plot.png)
 
 ### Conclusion:
 This project provides a detailed analysis of binary classifiers using the IMDB dataset, emphasizing the importance of precision-recall curves in evaluating model performance. By preprocessing the text data, optimizing model parameters, and visualizing the trade-offs between precision and recall, this analysis offers valuable insights into the effectiveness of different models on a binary classification task.
